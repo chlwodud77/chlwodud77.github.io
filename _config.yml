@@ -9,9 +9,9 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
+  name:         Jay
   url:          https://chester.how
-  email:        chesterhow@gmail.com
+  email:        jaychoi201@gmail.com
 
 # Build settings
 markdown:       kramdown
@@ -31,5 +31,7 @@ plugins:
   # - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
+theme:    tale
+
 permalink:      /:year-:month-:day/:title
 paginate:       5
